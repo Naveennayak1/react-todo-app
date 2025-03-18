@@ -26,4 +26,4 @@ npm run dev
 5. Open the app in your browser at `http://localhost:5173`.
 
 ## Live Demo
-[Live Link]([https://your-live-link.com](https://naveennayak1.github.io/react-todo-app/))
+https://your-live-link.com](https://naveennayak1.github.io/react-todo-app/
